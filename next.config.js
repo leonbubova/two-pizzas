@@ -1,7 +1,8 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   reactStrictMode: true,
-  assetPrefix: "./",
+  basePath: "/two-pizzas",
+  assetPrefix: "/two-pizzas",
   experimental: {
     images: {
       unoptimized: true,
