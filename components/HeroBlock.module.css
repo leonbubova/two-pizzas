@@ -1,0 +1,18 @@
+.container {
+  max-width: 28vw;
+}
+
+.heroText {
+  margin-bottom: 2rem;
+}
+
+.heroHeader {
+}
+
+.menuButton {
+  background-color: white;
+  color: black;
+  padding: 1rem 2rem;
+  font-size: 1.25em;
+  font-weight: 700;
+}

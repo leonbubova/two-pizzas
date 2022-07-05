@@ -1,0 +1,31 @@
+.header {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  margin: 2rem 5.5rem;
+}
+
+.headerLogo {
+  font-size: 2em;
+  font-weight: 800;
+}
+
+.menu {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 1.25em;
+  font-weight: 700;
+}
+
+.menuSpacer {
+  margin-left: 2rem;
+}
+
+.menuButton {
+  background-color: white;
+  color: black;
+  padding: 1rem 2rem;
+}

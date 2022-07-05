@@ -1,0 +1,6 @@
+.content {
+  display: flex;
+  flex-direction: row;
+  margin: 25vh 18vw;
+  justify-content: space-around;
+}
