@@ -2,7 +2,7 @@
 const nextConfig = {
   reactStrictMode: true,
   basePath: "/two-pizzas",
-  assetPrefix: "two-pizzas",
+  assetPrefix: "",
   experimental: {
     images: {
       unoptimized: true,
