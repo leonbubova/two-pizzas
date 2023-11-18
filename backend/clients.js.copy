@@ -1,0 +1,8 @@
+import contentful from "contentful";
+export const createClients = () => {
+  const client = contentful.createClient({
+    space: "",
+    accessToken: "",
+  });
+  return client;
+};
